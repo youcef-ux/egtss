@@ -1,0 +1,21 @@
+/* Global Styles */
+body {
+    font-family: 'Arial', sans-serif;
+    padding-top: 56px; /* Offset for fixed navbar */
+}
+
+.hero-section {
+    background: url('../images/industrial-bg.jpg') no-repeat center center;
+    background-size: cover;
+    color: white;
+    padding: 150px 0;
+    text-align: center;
+}
+
+.service-icon {
+    width: 80px;
+    height: 80px;
+    margin-bottom: 15px;
+}
+
+/* Add more styles as needed */
